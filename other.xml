@@ -1,0 +1,26 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/api-gs0wKxSh/bin/python" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/subway-data-PCeD9oc0/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/jeff-pycharm/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/subway-data/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/api-gs0wKxSh/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/subway-data-PCeD9oc0/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/subway-data/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/api-gs0wKxSh/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/subway-data-PCeD9oc0/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/subway-data/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
