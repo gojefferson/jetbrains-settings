@@ -3,10 +3,15 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
@@ -22,6 +27,14 @@
   </action>
   <action id="GotoRelated" />
   <action id="JumpToLastWindow" />
+  <action id="Macro.down-10-lines">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="Macro.up-10-lines">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -38,6 +51,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="SmartSelect" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>

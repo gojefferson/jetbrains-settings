@@ -16,5 +16,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
+    <mask>*.scss,!mixins.scss</mask>
   </component>
 </application>
