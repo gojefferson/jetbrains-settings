@@ -2,7 +2,7 @@
   <tool name="isort" description="Check order of imports" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="pipenv" />
-      <option name="PARAMETERS" value="run isort  -r" />
+      <option name="PARAMETERS" value=" run isort  --check-only --diff --recursive $ContentRoot$" />
       <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     </exec>
   </tool>
