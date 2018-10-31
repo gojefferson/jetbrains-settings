@@ -3,6 +3,7 @@
     <option name="FONT_FAMILY" value="NovaMono" />
   </component>
   <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
