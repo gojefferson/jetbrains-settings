@@ -18,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.scss,!mixins.scss</mask>
     <mask>*.hbs</mask>
+    <mask>*.py</mask>
   </component>
 </application>
